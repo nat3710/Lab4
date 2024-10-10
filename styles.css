@@ -27,3 +27,5 @@ h1,h2,h3,h4,h5,h6 {text-decoration: underline dashes;}
 #intro{ font-weight:300;}
 
 body{ font-family: arial, sans-serif;}
+
+.custom-font{font-family: 'Times New Roman', Times, serif;}
